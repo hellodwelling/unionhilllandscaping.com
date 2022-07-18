@@ -5,77 +5,77 @@
 
     <url>
         <loc>https://unionhilllandscaping.com/index</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/store</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/reviews</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/gallery-All</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/gallery-Lawn-Care</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/gallery-Landscaping</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://unionhilllandscaping.com/service-Fall-and-Spring-Clean-Up</loc>
-        <lastmod>2022-07-12</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://unionhilllandscaping.com/service-Mowing</loc>
-        <lastmod>2022-07-12</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://unionhilllandscaping.com/service-Mulch-Installation</loc>
-        <lastmod>2022-07-12</lastmod>
+        <loc>https://unionhilllandscaping.com/service-Mulch-&-Pinestraw-Installation</loc>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/service-Shrub-Trimming</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://unionhilllandscaping.com/service-Landscaping</loc>
-        <lastmod>2022-07-12</lastmod>
+        <lastmod>2022-07-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://unionhilllandscaping.com/service-Spring-and-Fall-Cleanup</loc>
+        <lastmod>2022-07-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://unionhilllandscaping.com/service-Mowing</loc>
+        <lastmod>2022-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
